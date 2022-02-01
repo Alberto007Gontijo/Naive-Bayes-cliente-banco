@@ -1,0 +1,27 @@
+{
+    "id": "E0F4D398",
+    "path": "F:/MachineLearning&Datascince/clientbanco/pre_processamento_creditdata.R",
+    "project_path": "pre_processamento_creditdata.R",
+    "type": "r_source",
+    "hash": "1573216744",
+    "contents": "",
+    "dirty": false,
+    "created": 1641910940285.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,0",
+        "scrollLine": "16"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642000747,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642000747776,
+    "read_only": false,
+    "read_only_alternatives": []
+}
